@@ -47,7 +47,7 @@ export let projects: Project[] = [
     links: [
       {
         title: "Demo",
-        url: "https://www.linkedin.com/posts/heryandjaruma_hackjakarta-hackathon-grab-activity-7225065073910722560-4tYT",
+        url: "https://kaoriathayadev.vercel.app/",
       },
     ],
     photoPaths: [
