@@ -50,8 +50,8 @@ export default function DaExperience() {
           <p className={`${Grotesk400.className} text-sm`}>
             Independent, focusing on government websites and platforms like HackerOne, Bugcrowd
           </p>
-          <p className={`${Ubuntu.className} text-sm`}>2024 - Now</p>
-          <p className={`${Ubuntu.className} text-sm`}>February 2024- Now</p>
+          <p className={`${Ubuntu.className} text-sm`}>2025 - Now</p>
+          <p className={`${Ubuntu.className} text-sm`}>February 2025- Now</p>
         </div>
       </div>
     </div>

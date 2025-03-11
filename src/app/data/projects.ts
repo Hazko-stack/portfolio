@@ -56,6 +56,25 @@ export let projects: Project[] = [
     ],
   },
   {
+    id: "kaori-kanban",
+    folderTitle: "かおり kanban",
+    name: "かおり kanban",
+    type: "Web",
+    techstack: "NextJS, groq, TailwindCSS",
+    description:
+      "かおり kanban-A simple task management app to visualize project progress using Kanban boards.",
+    links: [
+      {
+        title: "Demo",
+        url: "https://skillflug.vercel.app/",
+      },
+    ],
+    photoPaths: [
+      "/assets/image/kanban/1.png",
+      "/assets/image/kanban/2.png",
+    ],
+  },
+  {
     id: "skillflug",
     folderTitle: "skillflug",
     name: "skillflug",

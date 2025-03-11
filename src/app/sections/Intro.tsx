@@ -28,7 +28,7 @@ export default function Intro() {
           <a
             className="bg-neon-500 px-1 underline text-njblue-700"
             target="_blank"
-            href="https://github.com/heryandjaruma"
+            href="https://github.com/Hazko-stack"
             rel="noopener noreferrer"
           >
             GitHub
