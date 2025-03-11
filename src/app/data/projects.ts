@@ -66,7 +66,7 @@ export let projects: Project[] = [
     links: [
       {
         title: "Demo",
-        url: "https://skillflug.vercel.app/",
+        url: "https://kaori-kanban.vercel.app/",
       },
     ],
     photoPaths: [
