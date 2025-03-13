@@ -21,7 +21,7 @@ export default function Intro() {
         </p>
         <p className={Grotesk400.className}>
           My name is <span className="opacity-30">He</span>
-          <span className="">kaori</span>, and I&apos;m a high school student. I specialize in web development & cybersecurity. You can find some of my work on this page.
+          <span className="">kaori</span>, and I&apos;m a high school student passionate about web development and cybersecurity. I love building projects, hunting bugs, and sharing what I learn. Check out some of my work below!
         </p>
         <p className="mt-2 lg:mt-6">
           Find my projects on{" "}

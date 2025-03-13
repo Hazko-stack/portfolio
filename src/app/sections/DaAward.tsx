@@ -270,7 +270,7 @@ export default function DaAward() {
                   <p className={SansFransBold.className}>
                     
                     <span className={SansFrans.className}>
-                      Participant - MAN 2 Madiun graphic design
+                      Participant - MAN 2 Madiun graphic design competition
                     </span>
                   </p>
                   <p className={SansFransBold.className}>
