@@ -96,7 +96,7 @@ export default function DaAward() {
                   <p className={SansFransBold.className}>
                     
                     <span className={SansFrans.className}>
-                      1st Winner - Internet of Things PNB IT
+                      1st Winner - Internet of Things PNB IT National 2024
                     </span>
                   </p>
                   <p className={SansFransBold.className}>
