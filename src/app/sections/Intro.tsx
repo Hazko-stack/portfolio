@@ -20,7 +20,7 @@ export default function Intro() {
           <span className={Alagard.className}>n!</span>
         </p>
         <p className={Grotesk400.className}>
-          My name is <span className="opacity-30">He</span>
+          <span> My name is </span>
           <span className="">kaori</span>, and I&apos;m a high school student passionate about web development and cybersecurity. I love building projects and finding vulnerabilities. Check out my work below!
         </p>
         <p className="mt-2 lg:mt-6">
