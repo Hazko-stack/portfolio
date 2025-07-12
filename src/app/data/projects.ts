@@ -47,7 +47,7 @@ export let projects: Project[] = [
     links: [
       {
         title: "Demo",
-        url: "https://kaoriathayadev.vercel.app/",
+        url: "https://kaoriathaya.vercel.app/",
       },
     ],
     photoPaths: [

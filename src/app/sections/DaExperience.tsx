@@ -53,6 +53,26 @@ export default function DaExperience() {
           <p className={`${Ubuntu.className} text-sm`}>2025 - Now</p>
           <p className={`${Ubuntu.className} text-sm`}>February 2025- Now</p>
         </div>
+        <div>
+        <div className={`${Grotesk700.className} p-4 text-njblue-700`}>
+          <p>Robotic Competitions</p>
+
+          <p className={`${Grotesk400.className} text-sm mt-2`}>
+            • <strong>Semifinalist</strong>, East Java Provincial Education Office Awards — <em>Robotics Category</em><br />
+            <span className={`${Ubuntu.className}`}>2022 & 2023</span>
+          </p>
+
+          <p className={`${Grotesk400.className} text-sm mt-2`}>
+            • <strong>Participant</strong>, TECHNOCORNER UGM 2024 — <em>Soccer Robot & Transporter Robot</em><br />
+            <span className={`${Ubuntu.className}`}>Universitas Gadjah Mada, Yogyakarta</span>
+          </p>
+
+          <p className={`${Grotesk400.className} text-sm mt-2`}>
+            • <strong>1st Place</strong>, Internet of Things (IoT) Competition 2024<br />
+            <span className={`${Ubuntu.className}`}>Politeknik Negeri Bali (PNB)</span>
+          </p>
+        </div>
+      </div>
       </div>
     </div>
   );
