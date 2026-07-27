@@ -3,7 +3,7 @@ import { Grotesk400, Grotesk700, Ubuntu } from "../utils/fonts";
 
 export default function DaExperience() {
   return (
-    <div className="bg-gradient-to-b to-njblue-200 from-gray-50 pb-14">
+    <div className="bg-linear-to-b to-njblue-200 from-gray-50 pb-14">
       <div className="relative w-full">
         <Image
           src="/assets/image/ring_blue.png"
@@ -50,8 +50,8 @@ export default function DaExperience() {
           <p className={`${Grotesk400.className} text-sm`}>
             Independent, focusing on government websites and platforms like HackerOne, Bugcrowd
           </p>
-          <p className={`${Ubuntu.className} text-sm`}>2025 - Now</p>
-          <p className={`${Ubuntu.className} text-sm`}>February 2025- Now</p>
+          <p className={`${Ubuntu.className} text-sm`}>2025 - 2026</p>
+          <p className={`${Ubuntu.className} text-sm`}>February 2025- February 2026</p>
         </div>
         <div>
         <div className={`${Grotesk700.className} p-4 text-njblue-700`}>
@@ -73,6 +73,14 @@ export default function DaExperience() {
           </p>
         </div>
       </div>
+       <div className={`${Grotesk700.className} p-4 text-njblue-700`}>
+          <p>UI/Ux & Software Development Competitions</p>
+
+          <p className={`${Grotesk400.className} text-sm mt-2`}>
+            • <strong>Finalist</strong>, HACKFEST International — <em>UI/UX Competition</em><br />
+            <span className={`${Ubuntu.className}`}>Universitas Ciputra</span>
+          </p>
+        </div>
       </div>
     </div>
   );

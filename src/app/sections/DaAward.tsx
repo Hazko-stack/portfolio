@@ -75,7 +75,8 @@ export default function DaAward() {
 
             <div className="border-2 border-white rounded-b-lg">
               <div className="px-3 py-5 text-njblue-700 grid grid-cols-1 gap-y-4">
-                {" "}
+                
+
                 <div className=" bg-gray-50 px-3 pt-2 pb-1 ml-3 mr-5 rounded-xl -translate-x-1 text-sm relative">
                   <Image
                     src={`/assets/image/reaction_bubble.png`}
@@ -94,7 +95,6 @@ export default function DaAward() {
                     priority
                   />
                   <p className={SansFransBold.className}>
-                    
                     <span className={SansFrans.className}>
                       1st Winner - Internet of Things PNB IT National 2024
                     </span>
@@ -115,10 +115,11 @@ export default function DaAward() {
                     width={200}
                     height={200}
                     alt="cap"
-                    className="absolute w-5 -left-[7px] bottom-0 -z-10"
+                    className="absolute w-5 -left-1.75 bottom-0 -z-10"
                     priority
                   />
                 </div>
+
                 <div className=" bg-gray-50 px-3 pt-2 pb-1 ml-3 mr-5 rounded-xl -translate-x-1 text-sm relative">
                   <Image
                     src={`/assets/image/reaction_bubble.png`}
@@ -137,7 +138,6 @@ export default function DaAward() {
                     priority
                   />
                   <p className={SansFransBold.className}>
-                    
                     <span className={SansFrans.className}>
                     Appreciation - discovering vulnerability in the Sistem Elektronik Pemerintah Daerah DIY
                     </span>
@@ -158,10 +158,11 @@ export default function DaAward() {
                     width={200}
                     height={200}
                     alt="cap"
-                    className="absolute w-5 -left-[7px] bottom-0 -z-10"
+                    className="absolute w-5 -left-1.75 bottom-0 -z-10"
                     priority
                   />
                 </div>
+
                 <div className=" bg-gray-50 px-3 pt-2 pb-1 ml-3 mr-5 rounded-xl -translate-x-1 text-sm relative">
                   <Image
                     src={`/assets/image/reaction_bubble.png`}
@@ -180,32 +181,74 @@ export default function DaAward() {
                     priority
                   />
                   <p className={SansFransBold.className}>
-                    
                     <span className={SansFrans.className}>
-                      Participant -  Bebras Challenge Computional Thinking
+                      Finalist -  HACKFEST UI/UX Competition International
                     </span>
                   </p>
                   <p className={SansFransBold.className}>
                     by{" "}
                     <span className={SansFrans.className}>
-                    Universitas Kristen Petra 
+                    Universitas Ciputra
                     </span>
                   </p>
                   <p
                     className={`w-full text-end text-xs ${SansFransBold.className} text-gray-400`}
                   >
-                    Received 2021
+                    Received 2026
                   </p>
                   <Image
                     src={`/assets/image/bubble_tail.png`}
                     width={200}
                     height={200}
                     alt="cap"
-                    className="absolute w-5 -left-[7px] bottom-0 -z-10"
+                    className="absolute w-5 -left-1.75 bottom-0 -z-10"
                     priority
                   />
-                  
                 </div>
+
+                <div className=" bg-gray-50 px-3 pt-2 pb-1 ml-3 mr-5 rounded-xl -translate-x-1 text-sm relative">
+                  <Image
+                    src={`/assets/image/reaction_bubble.png`}
+                    width={200}
+                    height={200}
+                    alt="cap"
+                    className="absolute w-10 -right-4 -top-3"
+                    priority
+                  />
+                  <Image
+                    src={`/assets/image/graduation_cap.png`}
+                    width={200}
+                    height={200}
+                    alt="cap"
+                    className="absolute w-5 -right-1 -top-1"
+                    priority
+                  />
+                  <p className={SansFransBold.className}>
+                    <span className={SansFrans.className}>
+                      Invited VVIP Program BSSN (Bug Hunter)
+                    </span>
+                  </p>
+                  <p className={SansFransBold.className}>
+                    by{" "}
+                    <span className={SansFrans.className}>
+                      Badan Siber dan Sandi Negara (BSSN)
+                    </span>
+                  </p>
+                  <p
+                    className={`w-full text-end text-xs ${SansFransBold.className} text-gray-400`}
+                  >
+                    2025
+                  </p>
+                  <Image
+                    src={`/assets/image/bubble_tail.png`}
+                    width={200}
+                    height={200}
+                    alt="cap"
+                    className="absolute w-5 -left-1.75 bottom-0 -z-10"
+                    priority
+                  />
+                </div>
+  
               </div>
 
               <div className="flex bg-white rounded-full p-2 m-2 items-center">

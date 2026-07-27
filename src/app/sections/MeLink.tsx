@@ -8,7 +8,7 @@ export default function MeLink() {
       <a
         className="bg-neon-500 px-4"
         target="_blank"
-        href="https://github.com/Hazko-stack"
+        href="https://github.com/Kaoriathaya/"
         rel="noopener noreferrer"
       >
         Github

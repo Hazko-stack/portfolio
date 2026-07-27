@@ -28,7 +28,7 @@ export default function Intro() {
           <a
             className="bg-neon-500 px-1 underline text-njblue-700"
             target="_blank"
-            href="https://github.com/Hazko-stack"
+            href="https://github.com/Kaoriathaya"
             rel="noopener noreferrer"
           >
             GitHub
@@ -40,7 +40,7 @@ export default function Intro() {
           <a
             className="bg-neon-500 px-1 underline text-njblue-700"
             target="_blank"
-            href="https://www.instagram.com/athayahazza_"
+            href="https://www.instagram.com/kaoriathaya"
             rel="noopener noreferrer"
           >
             Insta

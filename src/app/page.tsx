@@ -38,7 +38,7 @@ export default function Home() {
         </div>
         <ProjectTitle />
         <div
-          className="h-44 bg-gradient-to-t from-gray-50 to-white"
+          className="h-44 bg-linear-to-t from-gray-50 to-white"
           id="project"
         >
           &nbsp;
